@@ -309,6 +309,17 @@ recorded. A fix without verification is not a lesson yet.
     dynamic/TP−2 loudnorm pass + float premaster (final −14.59 LUFS /
     −1.56 dBTP). Carry limitations forward only when they still apply —
     re-measure per version.
+71. **Remotion segment-concat drift.** [2026-11-16] Each Remotion render
+    part carries a SILENT AAC audio track ~0.059 s LONGER than its video
+    track; concatenating parts offsets each subsequent part, producing
+    cumulative video drift (+0.367 s measured on sales-video-1 v2's first
+    mux). Mapping only the video stream does NOT fix it. Fix: strip the
+    silent audio from every part before concat (frames bit-identical),
+    re-concat, re-mux. Verified: the final file shows perfectly uniform
+    1/30 s frame steps (first pts 0.0, last pts = (N-1)/30), frame count
+    identical to the sum of parts. Evidence:
+    `~/workspace/sales-video-1/work/qa_v2/drift_before_fix_frames.json`.
+    See `04-technical-pipeline.md` (Concat / PTS checks).
 
 ## Environment / deploy-adjacent (affect video tooling)
 

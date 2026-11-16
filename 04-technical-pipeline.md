@@ -69,6 +69,17 @@
   within the 0.28 s caption bridge.
 - Verify: exact frame counts per segment, 0 non-increasing presentation
   steps, only the expected boundary steps.
+- **Segment-concat drift: strip the silent audio BEFORE concat
+  (2026-11-16).** Each Remotion render part carries a SILENT AAC audio
+  track ~0.059 s LONGER than its video track; when parts are concatenated,
+  the demuxer offsets each subsequent part, producing cumulative video
+  drift (+0.367 s measured on sales-video-1 v2's first mux). Mapping only
+  the video stream does NOT fix it. FIX: strip the silent audio from every
+  part before concat (frames bit-identical), re-concat, re-mux. VERIFY:
+  the final file must show perfectly uniform 1/30 s frame steps (first pts
+  0.0, last pts = (N-1)/30) with the frame count identical to the sum of
+  the parts. Evidence:
+  `~/workspace/sales-video-1/work/qa_v2/drift_before_fix_frames.json`.
 
 ## Bangla caption shaping (hard rule)
 
@@ -234,6 +245,10 @@ frames). slay Portrait LUT: no brightness lift. color-grade-ai: darkens +
   voice; no scene empty or monotonous. Fix ONLY flagged scenes.
 - **LIVE VERIFICATION:** the parent views actual rendered frames/clips
   before delivery — never deliver on settings/descriptions alone.
+- **Faststart probe false-fail (2026-11-16).** A faststart check that reads
+  only the first 200 KB false-fails correct files when the moov atom is
+  larger (sales-video-3 v1's moov is 317 KB). FIX: widen the probe window
+  to 2 MB (qa_v3.py).
 
 ## Environment limits (this VM)
 
