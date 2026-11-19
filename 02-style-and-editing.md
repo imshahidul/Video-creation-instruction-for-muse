@@ -466,6 +466,63 @@ Deliberately NOT adopted (conflict with a standing user rule):
 - **Brand package + names** — "Sohan", "ফ্রি SEO সিরিজ", his Follow /
   Subscribe buttons are the source's — do-not-copy (no-copied-names rule).
 
+## 17. Omar Faruk pricing-tutorial ref — adopted devices (2026-11-19)
+
+Reference: one Bangla Facebook reel (327.4 s, 1080×1920, 30 fps, master
+-14.11 LUFS, LRA 2.90 LU, Family A kinetic type, no speaker on camera).
+A 5-step pricing tutorial: true purchase cost → packaging/delivery/
+operational → marketing + returns → profit margin + formula → market
+research + final check. User order 2026-11-19: study the style, learn,
+push the rules. Full 10 fps study:
+`~/workspace/interview-edit/study/refs2/FB_SHARE_19rC87KghV_STUDY.md`;
+full rules in `STYLE_GUIDE.md` §17.
+
+ADOPTED into standing practice (genuinely new):
+
+1. **Hanging step tags** — numbered tags ("স্টেপ ০১"–"স্টেপ ০৫") hanging
+   from a string at the top of the frame, persisting through the whole
+   step. Teal for most steps, orange for the key step.
+2. **Running total ledger** — a receipt-style table that accumulates line
+   by line and carries the total forward across steps (560 → 580 → 650 →
+   750 here). A refresh cue re-runs it when a cost changes.
+3. **Cost-chain flow diagram** — icons joined by a dotted line in flow
+   order, each step adding a cost pill (+৳20) to the running total.
+4. **Live formula card** — the formula types itself, numbers fill in step
+   by step (750 ÷ 0.75 = 1,000), and the final result gets its own beat
+   with a green ✓.
+5. **Giant background word, LIGHT FORM ONLY** — one giant pale word behind
+   the scene as the beat's verdict (LOSS / MISTAKE / BUT / STOP / NET in
+   the reference). Dark form is out; light form only.
+6. **Anti-skip beat** — mid-video, before the payoff steps: "skip না করে
+   শেষ পর্যন্ত দেখুন" with the Skip button crossed out + a bookmark icon.
+   Once per video.
+7. **Dot comparison table** — feature rows × option columns scored with
+   teal/orange dots for head-to-head comparisons.
+8. **Price triangle / balance diagram** — a 3-corner triangle (total cost
+   / target margin % / what the customer will pay) with a seesaw balance
+   figure. Use when three things must balance to get the answer.
+9. **Hidden-bulk reveal diagram (iceberg form)** — hidden items fill in
+   one by one below the waterline for any "more than you see" beat.
+10. **Wrong-math trap** (variant of §15.1.9) — show the common wrong
+    calculation (750+25% = 938), then ≠ plus the real result (20% margin).
+11. **Animated follow-state flip** (variant of §15.1.6) — a Follow button
+    that animates to Following, usable mid-video too. Button only, no face.
+12. **Price-test bar chart** (variant of §15.1.3) — two bars per price
+    point (response vs profit/order).
+
+Deliberately NOT adopted (conflict with a standing user rule):
+
+- **Dark scenes** — the LOSS / MISTAKE / BUT / STOP / NET worlds are dark
+  navy/black. The NO BLACK BACKGROUND RULE wins; only the giant-word
+  device transfers, in light form.
+- **Creator face photo on follow/end cards** — the no-face rule wins.
+- **Teal/orange accent as a package** — our accent stays lime on cream
+  (60-30-10). Teal/orange are device colours only.
+- **Brand package + names** — "Omar Faruk", "Certified Meta Ads & Google
+  Ads Strategist", competitor shop names (Shop BD, Deal Hub, Trendy Mart),
+  and all prices/numbers as content are the source's — do-not-copy
+  (no-copied-names rule).
+
 ## Honesty limits (stand unchanged)
 
 - No individual SFX is verifiable in any of the 25 speech mixes
