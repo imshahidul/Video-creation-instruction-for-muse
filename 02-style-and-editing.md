@@ -418,6 +418,54 @@ Deliberately NOT adopted (conflict with a standing user rule):
   Audience", the WhatsApp number, and the ৳4,900 price are the source's —
   do-not-copy (no-copied-names rule).
 
+## 16. Sohan free-SEO-series announcement ref — adopted devices (2026-11-19)
+
+Reference: one Bangla Facebook reel (41.2 s, 1440×2560, 30 fps, master
+-14.18 LUFS, LRA 3.50 LU, Family A kinetic type except a creator-photo end
+card). User order 2026-11-19: study the style, learn, push the rules. Full
+10 fps study:
+`~/workspace/interview-edit/study/refs2/FB_SHARE_1BFfGSuB9x_STUDY.md`;
+full rules in `STYLE_GUIDE.md` §16.
+
+ADOPTED into standing practice (genuinely new):
+
+1. **Colour-per-beat world change, LIGHT FORM ONLY** — one new background
+   tint per idea beat (cream → light green → light blue → light peach →
+   light lilac). Tints stay light; accent stays lime. The reference used 10
+   worlds including black and dark colours; only the system transfers.
+2. **Stamp-slam punchline** — a rotated stamp slams on as the beat's
+   punchline, holds ~1.5–2 s. Max 2 per video. Red = rejection, green =
+   free or zero. Never for a neutral fact.
+3. **Giant letter-by-letter keyword reveal** — the video's one defining
+   term appears one giant letter per ~0.5 s beat. Exactly one term per
+   video, never whole sentences.
+4. **Persistent series bar** — small top bar on every frame: series name
+   left, Brand Beats wordmark right. Series videos only; never covering
+   the headline or caption bar.
+5. **Day-dot cadence strip** — 7 dots fill one by one to show a schedule
+   (3 lit = 3 days a week). Dots light in sync with the spoken number.
+6. **Ball-bouncing growth chart** — a marker ball bounces up a growing bar
+   chart to show growth from zero.
+7. **Sequential button reveal on the end card** — CTAs appear one per
+   second, each with its own spoken line.
+8. **Series-announcement structure** — hook (pain + zero-cost proof) →
+   question → answer reveal (giant term) → objection handling → zero-to-start
+   promise → offer → anti-promise (✗ stamp) → cadence → CTA.
+9. **Thought-bubble "what people think" device** — faceless silhouette +
+   thought bubble carrying the common belief. No face, no person.
+10. **Handwritten-script question/promise line** — max one script line per
+    video, for the question or the promise only.
+
+Deliberately NOT adopted (conflict with a standing user rule):
+
+- **Dark worlds** — black, purple, dark blue, dark green, dark red-brown.
+  The NO BLACK BACKGROUND RULE wins.
+- **Creator face photo on the end card** — the no-face rule wins.
+- **Blue/cyan accent as a package** — our accent stays lime on cream
+  (60-30-10). Green and red are device colours for the stamp/tag only.
+- **Brand package + names** — "Sohan", "ফ্রি SEO সিরিজ", his Follow /
+  Subscribe buttons are the source's — do-not-copy (no-copied-names rule).
+
 ## Honesty limits (stand unchanged)
 
 - No individual SFX is verifiable in any of the 25 speech mixes
