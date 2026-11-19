@@ -7,7 +7,8 @@ file and an older study note disagree, the style guide wins for editing
 style; the standing pipeline rules (Hind Siliguri + PIL/libraqm captions,
 never libass; no copied names in mock UI) still stand. This file is a
 condensed faithful copy — the full guide, with all timings and the 20-item
-corrections log, lives at that local path.
+corrections log, lives at that local path. §15 (2026-11-19) adds the
+CreativAim ad refs.
 
 ## 0. The two families (pick one per video, never mix randomly)
 
@@ -363,6 +364,59 @@ Deliberately NOT adopted (conflict with a standing user rule):
 - **Voice -16 / music -30 LUFS stem claim** — an on-screen claim, not
   measured. The standing master standard (-14 LUFS / -1 dBTP) is
   unchanged.
+
+## 15. CreativAim ad refs — adopted devices (2026-11-19)
+
+Reference: two Bangla Facebook ads by the agency CreativAim (46.1 s +
+49.3 s, 1080×1920, 30 fps, both masters -14.1 LUFS, LRA 2.4 / 2.2 LU,
+Family A kinetic type, voice continuous, zero silence gaps). User order
+2026-11-19: study as references, learn, push the rules. Full 10 fps
+studies:
+`~/workspace/interview-edit/study/refs2/FB_SHARE_1Cyvh4eXzu_STUDY.md` and
+`~/workspace/interview-edit/study/refs2/FB_SHARE_1HHB7fZ1Kf_STUDY.md`;
+full rules in `STYLE_GUIDE.md` §15.
+
+ADOPTED into standing practice (genuinely new):
+
+1. **Long kinetic holds** — a scene may hold 6–8 s when words keep
+   arriving ~0.3 s apart AND a UI element keeps animating. Word-by-word
+   text arrivals count as visual changes under the "new visual every
+   1.5–4 s" rule; a hold past 5 s is fine only while text keeps building.
+2. **Service-tour progress counter** — a pinned "04/06" counter +
+   segmented progress bar top-right across a numbered list tour. Use for
+   any 3+ item list tour.
+3. **Outcome-demo mockups** — show the result happening inside an animated
+   UI mockup instead of naming the feature: search typing → AI Overview
+   "Recommended: Your Studio" → rank #3 flips to #1; chatbot typing dots
+   → instant reply; Kanban rows filling New → Won.
+4. **Price tease-then-reveal** — hide the price behind "????" for one
+   beat, then reveal the big number in a circle. The number gets its own
+   beat.
+5. **New transitions** — solid-colour wipe between light scenes; circular
+   iris wipe into dark scenes. Added to the §5 vocabulary.
+6. **Direct-response end card** — brand logo + tagline + CTA button +
+   business WhatsApp number, held 4–5 s, then fade to black. Ad videos
+   only; the number must be the business's own public contact, never a
+   personal number.
+7. **Static illustrated mascot anchor (optional, ad videos only)** — one
+   flat-vector character pinned in a corner across scenes. No real person,
+   no face close-up.
+8. **Photo punchline inside a vector world** — one full-frame real photo
+   scene as the payoff visual inside an otherwise flat-vector video.
+9. **Wrong → right chat demo** — a chat mockup types the wrong line with
+   ✗, then the right line with ✓; the argument carried in one move.
+
+Deliberately NOT adopted (conflict with a standing user rule):
+
+- **Dark navy world** — V2 is mostly dark; V1 uses dark scenes for
+  mood/turn/CTA beats. The user's NO BLACK BACKGROUND RULE wins.
+- **Blue/cyan accent as a package** — our accent stays lime on cream
+  (60-30-10). The pill/chip keyword treatment is adoptable; the blue
+  itself is not our palette.
+- **Brand package + names** — "CreativAim", "Build Your Brand. Grow Your
+  Business.", "UNLOCK Your Brand's Social Power", "Reach the Right
+  Audience", the WhatsApp number, and the ৳4,900 price are the source's —
+  do-not-copy (no-copied-names rule).
 
 ## Honesty limits (stand unchanged)
 
