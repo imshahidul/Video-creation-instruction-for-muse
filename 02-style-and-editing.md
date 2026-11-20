@@ -560,6 +560,59 @@ Deliberately NOT adopted (conflict with a standing user rule):
   ৳2,000 price, 27 Nov date, recording deadline, bonus, payment chips;
   and the "100 emails → 1 client" claim as fact — do-not-copy.
 
+## 19. "Show the making, not the catalog" — user correction (2026-11-20)
+
+Evidence: user correction on the POSTED creative-mind v2.2 reel
+(FB reel 1401221385416855, IG Df94RZsAKFd). Beat 2 — the voice says
+"আপনি ব্যবসা শুরু করছিলেন নতুন ডিজাইন বানাবেন, নতুন প্রোডাক্ট আনবেন,
+নতুন কন্টেন্ট বানাবেন বলে" — but the frame showed catalog product cards
+with prices (Tailored Blazer ৳15,900, Denim Trucker ৳8,900) and a model
+photo labelled "নতুন কন্টেন্ট". His words: "এখানে এই ক্যাটালগ বসিয়ে
+দেওয়া। এটা একটু মিস ম্যাচ করে। পরবর্তীতে ঠিক করো" (video overall:
+"এবার ঠিক আছে" — fix next time, no rebuild). Full record:
+`STYLE_GUIDE.md` §19.
+
+ADOPTED into standing practice:
+
+- **The visual verb must match the spoken verb.** Voice says the
+  merchant MAKES or BRINGS something new (বানাবেন / আনবেন) → show the
+  MAKING, never a shop catalog. Design → sketch / pattern / fabric
+  being cut. Product → sourcing / sewing / crafting / packing. Content
+  → phone on a tripod / filming / editing timeline. Never a finished
+  model photo labelled as content.
+- **A catalog card with a price says "buy this"** — it contradicts "you
+  make new things" in the same beat. If the beat is about making, no
+  price appears in it at all.
+- Before placing a product photo in a beat, ask: does the voice say the
+  merchant makes it, or sells it? Makes → show the making. Sells → a
+  catalog card is fine.
+
+## 20. The "100 times a day" scene — counting circle + varied questions (user correction, 2026-11-20)
+
+Evidence: user correction with a screenshot from Claude's creative-mind
+video (beat 4): a big RED circle in the centre counting up (caught at
+৭৪) with "বার / দিনে" under it, surrounded by MANY DIFFERENT
+customer-question pills ("দাম কত?", "সাইজ?", "কবে পাবো?", "দাম?",
+"কালার আছে?", "COD হবে?", "স্টক আছে?", "ভাই দাম?", "ডেলিভারি চার্জ?",
+"হাই", "কবে?"), black pill caption "দিনে ১০০ বার". His words: "এরকম
+কোন সিনও নাই" (our video has no scene like this). Our v2.2 beat 4
+showed 25 IDENTICAL "দাম কত?" pills around a giant "১০০" — the builder
+had taken his earlier "শতশত সেম ম্যাসেজ" literally as identical text.
+The screenshot corrects that: "same message" means the same REPETITIVE
+questions, in their VARIETY — not one sentence copied 25 times. Full
+record: `STYLE_GUIDE.md` §20.
+
+ADOPTED into standing practice:
+
+- **Counting circle + varied questions.** Centre: a big counting circle
+  (red in the reference) with the number counting up in jumps
+  (১ → ২ → ৩ → ৭ → ১৪ → ৩৬ → ৮১ → ১০০) and "বার / দিনে" under it.
+  Around it: many question pills, each a DIFFERENT real question —
+  the script's three plus the other real ones (কালার আছে?, COD হবে?,
+  স্টক আছে?, ডেলিভারি চার্জ?, হাই, ভাই দাম?, কবে?).
+- **Never fill the frame with one sentence repeated identically** — that
+  reads as a copy-paste, not as a hundred customers asking.
+
 ## Honesty limits (stand unchanged)
 
 - No individual SFX is verifiable in any of the 25 speech mixes
