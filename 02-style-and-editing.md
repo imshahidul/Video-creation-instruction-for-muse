@@ -523,6 +523,43 @@ Deliberately NOT adopted (conflict with a standing user rule):
   and all prices/numbers as content are the source's — do-not-copy
   (no-copied-names rule).
 
+## 18. Khalid Farhan "1 hour a night" promo ref — adopted devices (2026-11-20)
+
+Reference: one Bangla Facebook reel (43.63 s, 720×1280, 30 fps, master
+-14.15 LUFS / TP -0.50 dBTP, voice-only, no audible bed). A masterclass
+promo: 1 hour a night = 30 hours a month → 100 businesses listed, 100
+emails sent → 1 client. User order 2026-11-20: study the style, keep it
+in the guide. Full study:
+`~/workspace/interview-edit/study/refs2/FB_SHARE_1J5J9KLpZU_STUDY.md`;
+full rules in `STYLE_GUIDE.md` §18.
+
+ADOPTED into standing practice (genuinely new):
+
+1. **Phase-tinted worlds** — pale yellow tint for the problem beat, pale
+   lime tint for the solution beat, on our single cream world. Never a
+   dark world.
+2. **Persistent series pill** — top-right black pill that never leaves
+   (Day number / series label); a section pill persisting through a whole
+   section.
+3. **Staged build-in inside long holds** — count-ups, row fills, growing
+   bars, one-dot lighting; the math assembles in front of the viewer.
+   Lime is the only accent.
+4. **The 1-in-N dot device** — one lime dot glowing in a grey 10×10 grid
+   for "one in a hundred" style claims (e.g. 1 in 10 visitors buys).
+5. **Current word in lime** in word-by-word captions; a solid chip behind
+   a key phrase only.
+6. **End-card offer ladder** — stacked title → date → price → bonus → CTA
+   + arrow for our own CTAs/end cards; structure only.
+
+Deliberately NOT adopted (conflict with a standing user rule):
+
+- **Face / avatar photo in the corner** — the no-face rule wins.
+- **Dark navy night world** — the NO BLACK BACKGROUND RULE wins.
+- **Multi-accent rainbow** — our single lime accent only.
+- **Brand package + pitch facts** — his name, masterclass name, site,
+  ৳2,000 price, 27 Nov date, recording deadline, bonus, payment chips;
+  and the "100 emails → 1 client" claim as fact — do-not-copy.
+
 ## Honesty limits (stand unchanged)
 
 - No individual SFX is verifiable in any of the 25 speech mixes
